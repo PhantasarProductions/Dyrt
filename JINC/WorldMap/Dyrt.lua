@@ -1,0 +1,96 @@
+--[[
+/**********************************************
+  
+  (c) Jeroen Broks, 2014, All Rights Reserved.
+  
+  This file contains material that is related 
+  to a storyline that is which is stricyly
+  copyrighted to Jeroen Broks.
+  
+  This file may only be used in an unmodified
+  form with an unmodified version of the 
+  software this file belongs to.
+  
+  You may use this file for your study to see
+  how I solved certain things in the creation
+  of this project to see if you find valuable
+  leads for the creation of your own.
+  
+  Mostly this file comes along with a project
+  that is for most part released under an
+  open source license and that means that if
+  you use that code with this file removed
+  from it, you can use it under that license.
+  Please check out the other files to find out
+  which license applies.
+
+  This file comes 'as-is' and in no possible
+  way the author can be held responsible of
+  any form of damages that may occur due to 
+  the usage of this file
+  
+  
+ **********************************************/
+ 
+
+
+
+Version: 14.10.22
+
+]]
+ret = {}
+ret['BEACH'] = {
+	Caption   = 'Beach',
+	X         = 198,
+	Y         = 296,
+	Map       = 'CH5_DYRT_BEACH',
+	MapEvent  = '',
+	GameEvent = ''
+}
+
+ret['DEATHCAVE'] = {
+	Caption   = 'The Caves of Death',
+	X         = 349,
+	Y         = 62,
+	Map       = 'CH5_DYRT_DEATHCAVE',
+	MapEvent  = '',
+	GameEvent = ''
+}
+
+ret['FOREST'] = {
+	Caption   = 'Forest',
+	X         = 298,
+	Y         = 198,
+	Map       = 'CH5_DYRT_FOREST',
+	MapEvent  = '',
+	GameEvent = ''
+}
+
+ret['KEEP'] = {
+	Caption   = 'Lord Dzgjymza\'s Keep',
+	X         = 505,
+	Y         = 168,
+	Map       = 'CH5_DZGJYMZA_KEEP',
+	MapEvent  = '',
+	GameEvent = ''
+}
+
+ret['VILLAGE'] = {
+	Caption   = 'Umerington',
+	X         = 363,
+	Y         = 155,
+	Map       = 'CH5_VILLAGE',
+	MapEvent  = '',
+	GameEvent = ''
+}
+
+ret['WASTELAND'] = {
+	Caption   = 'Wasteland',
+	X         = 220,
+	Y         = 230,
+	Map       = 'CH5_DYRT_WASTELAND',
+	MapEvent  = '',
+	GameEvent = ''
+}
+
+return ret
