@@ -12,7 +12,8 @@ All-in-all, this repository serves most of all for preservation purposes. Enjoy!
 
 The game itself can be downloaded from http://tricky.gamejolt.io/Dyrt
 
-![Irravonia](https://i.gjcdn.net/data/games/0/188/20688/media/game-description/general-4bp5cned.png)
+![image](https://user-images.githubusercontent.com/11202073/43742418-287c576c-99d2-11e8-91f3-c11176ceb86f.png)
+
 
 One note, this repository only contains the Lua scripts. You need the LAURA  engine to actually run any of them, and JCR5 to create a package for LAURA. Both LAURA and JCR5 are discontinued projects, though and will only be kept up-to-date in order to make bugfixing for Dyrt or other gmaes in my older framework possible. If you want to keep LAURA alive, please lemme know and I can tell you all about it ;)
 
